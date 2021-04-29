@@ -1,1 +1,1 @@
-# ブラウザでmarkdownからscrapbox記法に変換してくれる君です
+- ブラウザでmarkdownからscrapbox記法に変換してくれる君です
