@@ -20,6 +20,7 @@
     "typescript": "^4.1.2",
     "web-vitals": "^1.0.1"
   },
+  "homepage": "https://kazuhi-ra.github.io/md2sb-on-browser",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
